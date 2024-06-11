@@ -19,3 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('google.com')
 
+WebUI.openBrowser('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+
